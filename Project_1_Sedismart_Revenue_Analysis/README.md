@@ -28,7 +28,30 @@ Calculated the business metrics using DAX ad visualized the findings ofthe analy
 
 __Findings Presentations__\
 Designed a report with a 4 self-service interactive dashboards; revenue by regions and cities, revenue by products, revenue by account handlers and customers, revenue timeline and trend.
+The regions and cities daashbaord included:
+- Measures of revenue, gross profit, gross margin, revenue variance and margin variance in summary cards.
+- Measure of revenue and budget for each region in a guage chart.
+- Measure of revenue and gross profit for each city in stacked bar chart.
 ![](assets/5-cities_and_regions.PNG)
+
+The products dashboard included:
+- Measures of revenue, gross profit, gross margin, revenue variance and margin variance in summary cards.
+- Measure of revenue by product-ranges in a donut chart.
+- Measure of revenue and gross profit by products in a stacked bar chart.
+- Slicers of region, branch and year.
 ![](assets/6-products.PNG)
+
+The account handlers and customers dashboard included:
+- Measures of revenue, gross profit, gross margin, revenue variance and margin variance in summary cards.
+- Measure of revenue and gross profit by account handlers in a stacked dashboard.
+- Measure of revenue and gross profit by customers in a stacked dashboard.
+- Map visual to locate the top 30 customers for each account handler (some of the postcodes did not show in the map becuase it is a synthesized data).
+- Slicers of region, branch and year.
 ![](assets/7-account_handlers_customers.PNG)
+
+The timeline and tredns dashboard included:
+- Measures of revenue, gross profit, gross margin, revenue variance and margin variance in summary cards.
+- Timeline of the revenue by year with a drill down feature to the quarter and month levels.
+- Measure of gross profit in a bar chart for each year.
+- Slicers of region, branch, product-range and product.
 ![](assets/8-timeline_and_trend.PNG)

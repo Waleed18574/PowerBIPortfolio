@@ -26,8 +26,8 @@ __Data Analysis__
 - Calculated the business metrics using DAX ad visualized the findings of the analysis using various visuals.
 ![](assets/4-data_analysis.PNG)
 
-__ Data Visualization & Findings Presentations__\
-Designed a report with a 4 self-service interactive dashboards; revenue by regions and cities, revenue by products, revenue by account handlers and customers, revenue timeline and trend.
+__Data Visualization & Findings Presentations__
+- Designed a report with a 4 self-service interactive dashboards; revenue by regions and cities, revenue by products, revenue by account handlers and customers, revenue timeline and trend.
 The regions and cities daashbaord included:
 - Measures of revenue, gross profit, gross margin, revenue variance and margin variance in summary cards.
 - Measure of revenue and budget for each region in a guage chart.

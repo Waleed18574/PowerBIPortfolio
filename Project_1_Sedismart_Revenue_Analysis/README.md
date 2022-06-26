@@ -8,22 +8,22 @@ Excel file containing the budget, staff, clients, sales, purchases and products 
 
 ## Project Plan and Flow Summary
 
-__Data Collection__\
+__Data Collection__
 - Connected to the Excel files using Power Bi and extracted the relevant tables.\
 ![](assets/1-data_collection.PNG)
 
-__Data Preparation__\
+__Data Preparation__
 - Cleaned and munged the data extracted in  the query editor. 
 - Added a composite keys to the sales and the purchases tables and to the sales and budget tables using DAX to be able to connect them in the data model.
 - Constructed a dynamic calendar table from the first and last date in the sales table using DAX.\
 ![](assets/2-data_preprocessing.PNG)
 
-__Data Modeling__\
+__Data Modeling__
 - Connected the tables in the data model.\
 ![](assets/3-data_model.PNG)
 
-__Data Analysis__\
-Calculated the business metrics using DAX ad visualized the findings of the analysis using various visuals.
+__Data Analysis__
+- Calculated the business metrics using DAX ad visualized the findings of the analysis using various visuals.
 ![](assets/4-data_analysis.PNG)
 
 __ Data Visualization & Findings Presentations__\

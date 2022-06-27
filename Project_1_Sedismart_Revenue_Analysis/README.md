@@ -1,7 +1,7 @@
 ## Introduction
 **Scenario:**\
 SEDISMART is an imaginary office furniture &equipment company and the management has a meeting soon in which they discuss the business-status. The tasks were to provide a revenue analysis by multiple criteria using different business metrics. Furthermore, I received a 
-business request to perform a revenue breakdown by different criteria and to show that in an interactive self-service dashboard. 
+business request to perform a revenue breakdown by different criterias and to show that in an interactive self-service dashboard. 
 
 **Data Source:**\
 Excel file containing the budget, staff, clients, sales, purchases and products tables. 

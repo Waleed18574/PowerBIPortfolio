@@ -27,7 +27,7 @@ __Data Analysis__
 ![](assets/4-data_analysis.PNG)
 
 __Data Visualization & Findings Presentations__
-- Designed a report with a 4 self-service interactive dashboards; revenue by regions and cities, revenue by products, revenue by account handlers and customers, revenue timeline and trend.
+- Designed a report with a 4 self-service interactive dashboards; revenue by regions and cities, revenue by products, revenue by suppliers, revenue by account handlers and customers, revenue timeline and trend.
 The regions and cities daashbaord included:
 - Measures of revenue, gross profit, gross margin, revenue variance and margin variance in summary cards.
 - Measure of revenue and budget for each region in a guage chart.
@@ -40,6 +40,14 @@ The products dashboard included:
 - Measure of revenue and gross profit by products in a stacked bar chart.
 - Slicers of region, branch and year.
 ![](assets/6-products.PNG)
+
+
+The suppliers dashboard included:
+- Measures of revenue, gross profit, gross margin, revenue variance and margin variance in summary cards.
+- Measures of revenue and cost by suppliers' locations in a map visual.
+- Measures of revenue and cost by a supplier name in a bar chart.
+- Slicers of product ranges, product and year.
+![](assets/6.1- suppliers.PNG)
 
 The account handlers and customers dashboard included:
 - Measures of revenue, gross profit, gross margin, revenue variance and margin variance in summary cards.

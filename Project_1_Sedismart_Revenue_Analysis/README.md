@@ -47,7 +47,7 @@ The suppliers dashboard included:
 - Measures of revenue and cost by suppliers' locations in a map visual.
 - Measures of revenue and cost by a supplier name in a bar chart.
 - Slicers of product ranges, product and year.
-![](assets/6.1- suppliers.PNG)
+![](assets/6.1-suppliers.PNG)
 
 The account handlers and customers dashboard included:
 - Measures of revenue, gross profit, gross margin, revenue variance and margin variance in summary cards.

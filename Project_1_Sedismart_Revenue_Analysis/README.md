@@ -55,7 +55,7 @@ The account handlers and customers dashboard included:
 - Measures of revenue, gross profit, gross margin, revenue variance and margin variance in summary cards.
 - Measure of revenue and gross profit by account handlers in a stacked dashboard.
 - Measure of revenue and gross profit by customers in a stacked dashboard.
-- Map visual to locate the top 30 customers for each account handler (some of the postcodes did not show in the map becuase it is a synthesized data).
+- Map visual to locate the top 30 customers for each account handler (some of the postcodes did not show in the map because it is a synthesized data).
 - Slicers of region, branch and year.
 ![](assets/7-account_handlers_customers.PNG)
 

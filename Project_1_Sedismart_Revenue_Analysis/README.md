@@ -28,7 +28,7 @@ __Data Analysis__
 
 __Data Visualization & Findings Presentations__
 
-Designed a report with a 4 self-service interactive dashboards; revenue by regions and cities, revenue by products, revenue by suppliers, revenue by account handlers and customers, revenue timeline and trend.
+Designed a report with a 5 self-service interactive dashboards; revenue by regions and cities, revenue by products, revenue by suppliers, revenue by account handlers and customers, revenue timeline and trend.
 
 The regions and cities dashbaord included:
 - Measures of revenue, gross profit, gross margin, revenue variance and margin variance in summary cards.

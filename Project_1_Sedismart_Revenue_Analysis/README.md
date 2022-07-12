@@ -59,7 +59,7 @@ The account handlers and customers dashboard included:
 - Slicers of region, branch and year.
 ![](assets/7-account_handlers_customers.PNG)
 
-The timeline and tredns dashboard included:
+The timeline and trends dashboard included:
 - Measures of revenue, gross profit, gross margin, revenue variance and margin variance in summary cards.
 - Timeline of the revenue by year with a drill down feature to the quarter and month levels.
 - Measure of gross profit in a bar chart for each year.

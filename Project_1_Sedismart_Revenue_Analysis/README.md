@@ -30,9 +30,9 @@ __Data Visualization & Findings Presentations__
 
 Designed a report with a 5 self-service interactive dashboards; revenue by regions and cities, revenue by products, revenue by suppliers, revenue by account handlers and customers, revenue timeline and trend.
 
-The regions and cities dashbaord included:
+The regions and cities dashboard included:
 - Measures of revenue, gross profit, gross margin, revenue variance and margin variance in summary cards.
-- Measure of revenue and budget for each region in a guage chart.
+- Measure of revenue and budget for each region in a gauge chart.
 - Measure of revenue and gross profit for each city in stacked bar chart.
 ![](assets/5-cities_and_regions.PNG)
 

@@ -1,9 +1,10 @@
-## Introduction
-**Scenario:**\
+# DEDISMART Data Analytics
+
+## Intro & Scenario:
 SEDISMART is an imaginary office furniture &equipment company and the management has a meeting soon in which they discuss the business-status. The tasks were to provide a revenue analysis by multiple criteria using different business metrics. Furthermore, I received a 
 business request to perform a revenue breakdown by different criterias and to show that in an interactive self-service dashboard. 
 
-**Data Source:**\
+## Data Source:
 Excel file containing the budget, staff, clients, sales, purchases and products tables. 
 
 ## Project Plan and Flow Summary
@@ -23,7 +24,7 @@ __Data Modeling__
 ![](assets/3-data_model.PNG)
 
 __Data Analysis__
-- Calculated the business metrics using DAX ad visualized the findings of the analysis using various visuals.
+- Calculated the business metrics using DAX.
 ![](assets/4-data_analysis.PNG)
 
 __Data Visualization & Findings Presentations__

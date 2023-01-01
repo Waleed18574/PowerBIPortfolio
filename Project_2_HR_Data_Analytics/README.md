@@ -7,7 +7,7 @@ In this project, I analyzed an HR dataset that I found online in a csv form. I u
 ![](assets/Capture0.PNG)
 
 
-## Dashboard 1
+## Presence Dashboard
 This dashboard included:
 - Total Employees and Perentage by Gender.
 - Total Employees and Percentage by Promotion Due nad Possible Retrenchment.
@@ -17,7 +17,7 @@ This dashboard included:
 
 ![](assets/Capture1.PNG)
 
-# Dashboard 2
+# Performance and Satisfaction Dashboard
 In this dashboard, I provide more detailed information about:
 - Promotion and Retrenchment by Department.
 - Total Employees by Job Satisfaction.

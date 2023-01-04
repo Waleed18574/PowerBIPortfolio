@@ -17,21 +17,13 @@ To evaluate the performance of the airports in term of flight delay management, 
 - Percentage of Flights Diverted.
 - Percentage of Flights Cancelled.
 
-## Project Tasks Sumamry
-In this project I:
-\
-1- Cleaned and transformed the data.
-\
-2- Built pivot-tables.
-\
-3- Used DAX formulas to calculate business metrics.
-\
-4- Constructed a self-service dynamic and interactive dashboard to show the delay management metrics. The visuals of the dashboard included __line chart__, __summary cards__, __column chart__, and __bar charts__.
-\
-5- Suggested recommendation for the CEO to decrease the risk of the delays.
+## Dashboard
 
 
 ![](assets/Capture1.PNG)
+
+## Presentation
+
 ![](assets/Capture2.png)
 ![](assets/Capture3.png)
 ![](assets/Capture4.png)

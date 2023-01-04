@@ -29,7 +29,6 @@ To evaluate the performance of the airports in term of flight delay management, 
 ![](assets/Capture4.png)
 ![](assets/Capture5.png)
 ![](assets/Capture6.png)
-![](assets/Capture7.png)
 ![](assets/Capture8.png)
 ![](assets/Capture9.png)
 ![](assets/Capture10.png)
